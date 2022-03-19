@@ -3,7 +3,7 @@ Route Location is a simple application that shows the route for the places you w
 It Then uses Google's Maps API with React.js to waypoint that location.
 
 
-![Screenshot](src/assets/Route_Location.PNG)
+![Screenshot](src/assets/Route_Location.png)
 
 ## Project setup
 ```
